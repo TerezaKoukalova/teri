@@ -1,0 +1,48 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    max-width: 100%;
+}
+
+.maly_obrazek {
+    max-width: 30%;
+}
+
+.ahoj {
+    background-color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.menu {
+    padding-left: 6.5rem;
+    float: left;
+    float: right;
+    padding-bottom: 10px;
+}
+
+.menu li {
+    text-decoration: none;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 28px;
+    border-radius: 3px;
+    display: block;
+    color: rgb(49, 135, 227)
+}
+
+h1 {
+    color: rgb(49, 135, 227)
+}
+
+.medium-8 column {
+    float: left;
+}
+
+.ahoj {
+    background-color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
